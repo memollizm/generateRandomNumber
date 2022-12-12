@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\HizliDeneme\HizliDeneme\bin\Debug\HizliDeneme.exe.config
+C:\Users\PC\source\repos\HizliDeneme\HizliDeneme\bin\Debug\HizliDeneme.exe
+C:\Users\PC\source\repos\HizliDeneme\HizliDeneme\bin\Debug\HizliDeneme.pdb
+C:\Users\PC\source\repos\HizliDeneme\HizliDeneme\obj\Debug\HizliDeneme.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HizliDeneme\HizliDeneme\obj\Debug\HizliDeneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\HizliDeneme\HizliDeneme\obj\Debug\HizliDeneme.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HizliDeneme\HizliDeneme\obj\Debug\HizliDeneme.exe
+C:\Users\PC\source\repos\HizliDeneme\HizliDeneme\obj\Debug\HizliDeneme.pdb
